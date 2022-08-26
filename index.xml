@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Raphael</title>
+    <link>https://raph-09.github.io/Abasiama-Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Raphael</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 09 May 2022 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://raph-09.github.io/Abasiama-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NUBIAVILLE PROCUREMENT AND LABOUR ANALYSIS</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/assessment/</link>
+      <pubDate>Mon, 09 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/assessment/</guid>
+      <description>PROCUREMENT DATA ANALYSIS Dataset: procurement dataset.xlsl ETL and Data Cleaning   Excel data connector was used to fetch the data from my local storage
+  Load the data into powerquery editor for cleaning
+  Replace null values present in status column with &amp;ldquo;cancelled&amp;rdquo; because null is likely to mean procurement was cancelled
+  Replace null in the sourcing manager column with &amp;ldquo;No Sourcing Manager&amp;rdquo;
+  Replace null in the cost centre column with &amp;ldquo;No cost centre&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Cryptocurrencies Market Analysis</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/crypto_analysis/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/crypto_analysis/</guid>
+      <description>A cryptocurrency is a virtual currency,which is an alternative method of payment created using encryption method known as cryptography. Cryptocurrencies function as both currency and accounting system, since it makes use of cryptography which help to keep record of every transaction digitally. The crytocurrency&amp;rsquo;s market is very volatile and at the same time very profitable. In this project I will try and analyze the cryptomarket using excel. I will focus mainly on Ethereum and Bitcoin.</description>
+    </item>
+    
+    <item>
+      <title>Project5: Smart Employee Salary Predictor App</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/project-5/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/project-5/</guid>
+      <description>The goal of this project is to build a smart application that uses machine learning regression algorithm to predict the salary of an employee given their years of experience, test score and interview score. The following are steps in the implementation of this project: Data collection, data cleaning, data wrangling, data visualization, model training and deployment into Flask web application.
+  Employee Salary Predictor.   This is link to Application</description>
+    </item>
+    
+    <item>
+      <title>Project6: Coronavirus Data Analysis</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/project-6/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/project-6/</guid>
+      <description>Covid-19 has changed our lives and affected the way we live. So, in this project, I will be analyzing covid 19 data gotten from wikipedia for insight. The following will be visualized from the data: Total death, total vaccinated, total cases,top10 countries with most vaccination etc.
+ETL and Data Cleaning: (i) Source of data is wikipedia (ii) PowerBI web connector is used to pull the data into PowerBI (iii) Data Transformation is carried out - remove the &amp;ldquo;total&amp;rdquo; rows, convert decimals into percentages,replace errors with zeros and rename invalid column names with correct names.</description>
+    </item>
+    
+    <item>
+      <title>Project7: Credit Card Fraud Detection</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/project-7/</link>
+      <pubDate>Tue, 09 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/project-7/</guid>
+      <description>The project aims to mitiate the problem we face in our society, credit card fraud. The model will be trained to automatically detect if a transaction is fraudulent or genuine. This will help minimise the number of fraudulent activities faced in our finanacial institutions. I started the project by analysing the data to understand how each component relates to fraudulent activities, the most important features were selected for the final model.</description>
+    </item>
+    
+    <item>
+      <title>ATLib SALES INSIGHT ANALYSIS</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/project-17-copy/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/project-17-copy/</guid>
+      <description>AIM This analysis project is about a company called AtliQ. AtliQ is a computer hardware and peripheral manufacturer. They have clients all over india such as Surge stores, Nomad stores, Excel stores and Electricalsara stores. The company have issues with tracking sales and gaining insight into the performance of the business due to the dynamic nature of the industry. Therefore, the aim of this project is to derive insights from the sales data open-sourced by AtliQ.</description>
+    </item>
+    
+    <item>
+      <title>EMPLOYEE ATTRITION ANALYSIS</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/project-18/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/project-18/</guid>
+      <description>AIM Every company relies on manpower to thrive. The HR must monitor and track the activities of employees. He must provide statistics of employees joining and leaving the organization. Therefore, the purpose of this project is to help the HR to monitor and track the activities of employees.
+DATA PREPROCESING 1)Remove irrelevant data
+2)Deduplicate your data
+3)Fix structural errors
+4)Deal with missing data
+5)Filter out data outliers
+6)Validate your data</description>
+    </item>
+    
+    <item>
+      <title>Project16: JEFF SALES DATA ANALYSIS</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/project-16-copy/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/project-16-copy/</guid>
+      <description>SALES DATA ANALYSIS Data Source: sales test data.xlsl ETL And Data Cleaning Data claning and ETL is the process of obtaining the data using a data connector, transforming the data into useful format using power query editor and loading it into report view for visualization and analysis. The folowing steps where taken to clean this dataset:
+1)Excel data connector was used to fetch the data from my local storage
+2)Load the data into powerquery editor for cleaning</description>
+    </item>
+    
+    <item>
+      <title>Project1: Mall Customer Segmentation Analysis</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/project-1/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/project-1/</guid>
+      <description>The aim of the segmentation project is to group customers based on their characteristics into different groups to understand their spending behaviours. The conclusion of this project is that younger people tend to patronise the mall more than their older counterpart. Three groups or categories where noticed:age, gender and annual income, but age was the major factor that influenced spending.
+Steps in project implementation: (i) importation of Python libraries (ii) getting data from Source (iii) loading and preprocessing of data (iv) exploratory data analysis (v) feature selection (vi) feature transformation (vii) Application of clustering algorithms using KMEANS and DBSCAN clustering algorithms.</description>
+    </item>
+    
+    <item>
+      <title>Project2: Swiggy Restaurant Data Analysis</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/project-2/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/project-2/</guid>
+      <description>This project is part of ineuronAI open internship,it is a POC(Proof of concept). Swiggy is an indian food ordering and delivering platform.So, the essence of this project is to analyze the data and recommend a location and a shop that offers good food,but at affordable rates to a friend. The conclusion from this project is that kchichi experiment located at koramangala is the best location to recommend to a friend, since they have high ratings, lower cost and also they are very popular among the people.</description>
+    </item>
+    
+    <item>
+      <title>Project3: Gemstone Identification Using Transfer Learning Techniques</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/post/project-3/</link>
+      <pubDate>Wed, 09 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/post/project-3/</guid>
+      <description>This is an image classification project using prtrained CNN models. The goal of the project is to use CNN(transfer learning) to identify seven diferents gemstones. The gemstones considered include:Amathyst, Aquamarine,Emarald, Opal, Ruby, Saphire and Sunstone. The following steps were carried out in the implementation of this project: Data collection, data cleaning and augmentation, model training and visualization using grado library.
+Model summary: VGG16 training accuracy 73% and validation accuracy 72%</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/about2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/about2/</guid>
+      <description>Raphael Akpan   Datascience is not just a career, but a passion. I am a versatile Data Scientist/Analyst with 2 years of contract and internship experience. Proficient in data cleaning, data manipulation, data visualization, machine learning and deep learning. I use tools and technologies such as SQL, Excel, PowerBI, Tableau and Python for my data analytics projects. Also,I have learnt that communication, time management and emotional intelligence skills are very crucial for a suceessful completion of a project(s).</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://raph-09.github.io/Abasiama-Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://raph-09.github.io/Abasiama-Portfolio/contact/</guid>
+      <description>You can follow me on these social media platforms
+   Plarform URL     Youtube: https://www.youtube.com/channel/UCAPLOUJaAY0sHyRQJ4xHI6w   Linkdin: https://www.linkedin.com/in/akpan-raphael-b90867169/   Twitter: https://twitter.com/abasiamaraph   Github: https://github.com/Raph-09   Email: akpan1653@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
